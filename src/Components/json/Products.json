@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "nombre": "Ferrari 348 TS",
+        "descripcion": "Ferrari 348 TS",
+        "imagen": "https://image.invaluable.com/housePhotos/artcurial/30/726930/H1118-L294256429_original.jpg",
+        "precio": 8000,
+        "stock": 10,
+        "categoria": "Manual"
+    },
+    {
+        "id": 2,
+        "nombre": "Subaru WRX STI",
+        "descripcion": "Subaru WRX STI",
+        "imagen": "https://hips.hearstapps.com/hmg-prod/images/20my-sti-s-w1-1573508899.jpg?crop=0.537xw:0.498xh;0.406xw,0.139xh&resize=1200:*",
+        "precio": 38000,
+        "stock": 10,
+        "categoria": "Manual"
+    },
+    {
+        "id": 3,
+        "nombre": "W Motors Lykan Hypersport",
+        "descripcion": "W Motors Lykan Hypersport",
+        "imagen": "https://www.carsflow.com/wp-content/uploads/2021/11/w-motors-lykan-hypersport.gif",
+        "precio": 3400000,
+        "stock": 10,
+        "categoria": "Manual"
+    },
+    {
+        "id": 4,
+        "nombre": "Nissan GTR 2014",
+        "descripcion": "Nissan GTR 2014",
+        "imagen": "https://th.bing.com/th/id/OIP.lGLuTtJX6EkAQy-MzROALwHaEK?pid=ImgDet&rs=1",
+        "precio": 70000,
+        "stock": 10,
+        "categoria": "Automatico"
+    },
+    {
+        "id": 5,
+        "nombre": "BMW i8",
+        "descripcion": "BMW i8",
+        "imagen": "https://th.bing.com/th/id/R.737b5463ad7720d062a396e1f13002c0?rik=zMA5bbZcSxF1bg&pid=ImgRaw&r=0",
+        "precio": 70000,
+        "stock": 10,
+        "categoria": "Automatico"
+    }
+]

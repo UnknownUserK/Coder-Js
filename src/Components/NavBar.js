@@ -1,9 +1,12 @@
 import '../App.css';
 
-function Header(props) {
+function NavBar(props) {
     return (
         <div className='flex shopping-card'>
             <div onClick={() => props.handleShow(false)} >Autos Toro</div>
+            <button onClick={() => props.setTipoAuto('todos')}>Todos</button> 
+            <button onClick={() => props.setTipoAuto('Automatico')}>Automático</button>
+            <button onClick={() => props.setTipoAuto('Manual')}>Manual</button>
             <div onClick={() => props.handleShow(true)}> Carrito
                 <sup> {props.count} </sup>
             </div>
@@ -11,4 +14,5 @@ function Header(props) {
     );
 }
 
-export default Header;
+export default NavBar;
+
